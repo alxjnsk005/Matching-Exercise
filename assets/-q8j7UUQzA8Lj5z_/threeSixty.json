@@ -1,0 +1,37 @@
+{
+  "version": "3.98.34380.0",
+  "course_id": "5hQPI8R05uH",
+  "title": "Data Quality Aspects",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Data Quality Aspects"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6YTpMC9ucNw",
+      "title": "Match the following data quality aspects to their descriptions:",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5hXwycANlKK",
+      "title": "Match the following data quality aspects to their descriptions:",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6D59SWwoo6d",
+      "title": "Thank you",
+      "scene_index": "1.3"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 634
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
